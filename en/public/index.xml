@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ron Keinan</title>
+    <link>http://ronkeinan.com/en/</link>
+    <description>Recent content on Ron Keinan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2016 Ron Keinan.</copyright>
+    <atom:link href="http://ronkeinan.com/en/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Contact Me</title>
+      <link>http://ronkeinan.com/en/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ronkeinan.com/en/contact/</guid>
+      <description>&lt;p&gt;&lt;h2 class=&#34;intro-text text-center&#34;&gt;Contact me
+                    &lt;/h2&gt;
+                    &lt;hr&gt;
+                    &lt;p&gt;Contact me via email at &lt;a href=&#34;mailto:ron@ronkeinan.com&#34;&gt;ron@ronkeinan.com&lt;/a&gt; or the form below.
+                    &lt;form role=&#34;form&#34; action=&#34;https://formspree.io/ron@ronkeinan.com&#34;
+      method=&#34;POST&#34;&gt;
+                        &lt;div class=&#34;row&#34;&gt;
+                            &lt;div class=&#34;form-group col-lg-4&#34;&gt;
+                                &lt;label&gt;Name&lt;/label&gt;
+                                &lt;input type=&#34;text&#34; name=&#34;Name&#34; class=&#34;form-control&#34;&gt;
+                            &lt;/div&gt;
+                            &lt;div class=&#34;form-group col-lg-4&#34;&gt;
+                                &lt;label&gt;Email Address&lt;/label&gt;
+                                &lt;input type=&#34;email&#34; name=&#34;Email&#34; class=&#34;form-control&#34;&gt;
+                            &lt;/div&gt;
+                            &lt;div class=&#34;clearfix&#34;&gt;&lt;/div&gt;
+                            &lt;div class=&#34;form-group col-lg-12&#34;&gt;
+                                &lt;label&gt;Message&lt;/label&gt;
+                                &lt;textarea class=&#34;form-control&#34; name=&#34;Message&#34; rows=&#34;6&#34;&gt;&lt;/textarea&gt;
+                            &lt;/div&gt;
+                            &lt;div class=&#34;form-group col-lg-12&#34;&gt;
+                                &lt;input type=&#34;hidden&#34; name=&#34;save&#34; value=&#34;contact&#34;&gt;
+                                &lt;button type=&#34;submit&#34; value=&#34;Send&#34; class=&#34;btn btn-default&#34;&gt;Submit&lt;/button&gt;
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/form&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Credits</title>
+      <link>http://ronkeinan.com/en/credits/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ronkeinan.com/en/credits/</guid>
+      <description>
+
+&lt;h2 id=&#34;partial-list-of-credits&#34;&gt;Partial List of Credits&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;As Composer&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Ron Keinan &amp;amp; the NDR Bigband (2015).&lt;/em&gt; CD of my own works.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;As Arranger&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Buggy Braune meets the HfMT Bigband (2014).&lt;/em&gt; Arrangements of Jazz Pianist Buggy Braune&amp;rsquo;s pieces for Big band as part of the Elbjazz Festival.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Gal Tamir - Live Show&lt;/em&gt;. A Live show of a singer-songwriter.&lt;/li&gt;
+&lt;li&gt;Numerous Arrangements of Israeli popular music for the Sinfonietta Be&amp;rsquo;er Sheva (Chamber Orchestra).&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;As Engineer/Producer&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Olympics - Games of Passion (2016).&lt;/em&gt; Wolf Kerschek (Composer &amp;amp; arranger), NDR Bigband, Session Strings and various Vocalists.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Amor, Semino Rossi (2015).&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ron Keinan</title>
+      <link>http://ronkeinan.com/en/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ronkeinan.com/en/</guid>
+      <description>&lt;div class=&#34;container&#34;&gt;
+
+        &lt;div class=&#34;row&#34;&gt;
+            &lt;div class=&#34;box&#34;&gt;
+                &lt;div class=&#34;col-lg-12 text-center&#34;&gt;
+                    &lt;div id=&#34;carousel-example-generic&#34; class=&#34;carousel slide&#34;&gt;
+                        &lt;!-- Indicators --&gt;
+                        &lt;ol class=&#34;carousel-indicators hidden-xs&#34;&gt;
+                            &lt;li data-target=&#34;#carousel-example-generic&#34; data-slide-to=&#34;0&#34; class=&#34;active&#34;&gt;&lt;/li&gt;
+                            &lt;li data-target=&#34;#carousel-example-generic&#34; data-slide-to=&#34;1&#34;&gt;&lt;/li&gt;
+                            &lt;li data-target=&#34;#carousel-example-generic&#34; data-slide-to=&#34;2&#34;&gt;&lt;/li&gt;
+                        &lt;/ol&gt;
+
+                        &lt;!-- Wrapper for slides --&gt;
+                        &lt;div class=&#34;carousel-inner&#34;&gt;
+                            &lt;div class=&#34;item active&#34;&gt;
+                                &lt;img class=&#34;img-responsive img-full&#34; src=&#34;img/ron-1.jpg&#34; alt=&#34;&#34;&gt;
+                            &lt;/div&gt;
+                            &lt;div class=&#34;item&#34;&gt;
+                                &lt;img class=&#34;img-responsive img-full&#34; src=&#34;img/slide-2.jpg&#34; alt=&#34;&#34;&gt;
+                            &lt;/div&gt;
+                            &lt;div class=&#34;item&#34;&gt;
+                                &lt;img class=&#34;img-responsive img-full&#34; src=&#34;img/slide-3.jpg&#34; alt=&#34;&#34;&gt;
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+                        &lt;a class=&#34;left carousel-control&#34; href=&#34;#carousel-example-generic&#34; data-slide=&#34;prev&#34;&gt;
+                            &lt;span class=&#34;icon-prev&#34;&gt;&lt;/span&gt;
+                        &lt;/a&gt;
+                        &lt;a class=&#34;right carousel-control&#34; href=&#34;#carousel-example-generic&#34; data-slide=&#34;next&#34;&gt;
+                            &lt;span class=&#34;icon-next&#34;&gt;&lt;/span&gt;
+                        &lt;/a&gt;
+                    &lt;/div&gt;
+                    &lt;h1 class=&#34;brand-name&#34;&gt;Ron Keinan&lt;/h1&gt;
+                    &lt;hr class=&#34;tagline-divider&#34;&gt;
+                    &lt;h2&gt;
+                        &lt;small&gt;&lt;strong&gt;&lt;a href=&#34;#composer&#34;&gt;Composer&lt;/a&gt;, &lt;a href=&#34;#arranger&#34;&gt;Arranger&lt;/a&gt;, &lt;a href=&#34;#producer&#34;&gt;Producer&lt;/a&gt;&lt;/strong&gt;
+                        &lt;/small&gt;
+                    &lt;/h2&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+  &lt;div class=&#34;row&#34;&gt;
+            &lt;div class=&#34;box&#34;&gt;
+                &lt;div class=&#34;col-lg-12&#34;&gt;
+&lt;p&gt;My name is &lt;strong&gt;Ron Keinan&lt;/strong&gt;. I&#39;m a composer, arranger and producer, currently based in Hamburg, Germany. I was born in Haifa, Israel, to a family of immigrants from Brazil. I studied the Double Bass under Mr. Michael Klinghoffer and Composition und Prof. Mark Kopytman in the Jerusalem Academy of Music and Dance. Lated I moved to Germany and continued my studies in Jazz Composition under Prof. Wolf Kerschek in the Hochschule für Musik und Theater Hamburg.&lt;/p&gt;  
+
+&lt;p id=&#34;composer&#34;&gt;&lt;strong&gt;As a composer,&lt;/strong&gt; I was educated in both the Classical and Jazz traditions. My compositions range from small chamber works to orchestral works, written for jazz musicians as well as  for classically trained musicians, for professionals and for amateurs. My music has been described as clear, communicative and direct.&lt;/p&gt; 
+
+&lt;p id=&#34;arranger&#34;&gt;&lt;strong&gt;I have arranged&lt;/strong&gt; music in diverse genres, both for live and for the studio. I like writing to the strengths of the musicians and the particular requirements of the piece. I particularly enjoy working with Singers, Songwriters and Bands to create together the kind of sound they envision.&lt;/p&gt;  
+
+&lt;p id=&#34;producer&#34;&gt;&lt;strong&gt;Working as a producer&lt;/strong&gt; and an engineer was a natural process for me, after arranging for the studio. Getting to know not only the instruments and musicians, but the mics, the recording techniques, MIDI programming and mixing techniques is in my view an inseperable part of being a modern arranger. &lt;/p&gt;  
+                    &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

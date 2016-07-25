@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contacts on Ron Keinan</title>
+    <link>http://ronkeinan.com/en/contact/</link>
+    <description>Recent content in Contacts on Ron Keinan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2016 Ron Keinan.</copyright>
+    <atom:link href="http://ronkeinan.com/en/contact/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Contact Me</title>
+      <link>http://ronkeinan.com/en/contact/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ronkeinan.com/en/contact/contact/</guid>
+      <description>&lt;p&gt;&lt;h2 class=&#34;intro-text text-center&#34;&gt;Contact
+                        &lt;strong&gt;form&lt;/strong&gt;
+                    &lt;/h2&gt;
+                    &lt;hr&gt;
+                    &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat, vitae, distinctio, possimus repudiandae cupiditate ipsum excepturi dicta neque eaque voluptates tempora veniam esse earum sapiente optio deleniti consequuntur eos voluptatem.&lt;/p&gt;
+                    &lt;form role=&#34;form&#34;&gt;
+                        &lt;div class=&#34;row&#34;&gt;
+                            &lt;div class=&#34;form-group col-lg-4&#34;&gt;
+                                &lt;label&gt;Name&lt;/label&gt;
+                                &lt;input type=&#34;text&#34; class=&#34;form-control&#34;&gt;
+                            &lt;/div&gt;
+                            &lt;div class=&#34;form-group col-lg-4&#34;&gt;
+                                &lt;label&gt;Email Address&lt;/label&gt;
+                                &lt;input type=&#34;email&#34; class=&#34;form-control&#34;&gt;
+                            &lt;/div&gt;
+                            &lt;div class=&#34;form-group col-lg-4&#34;&gt;
+                                &lt;label&gt;Phone Number&lt;/label&gt;
+                                &lt;input type=&#34;tel&#34; class=&#34;form-control&#34;&gt;
+                            &lt;/div&gt;
+                            &lt;div class=&#34;clearfix&#34;&gt;&lt;/div&gt;
+                            &lt;div class=&#34;form-group col-lg-12&#34;&gt;
+                                &lt;label&gt;Message&lt;/label&gt;
+                                &lt;textarea class=&#34;form-control&#34; rows=&#34;6&#34;&gt;&lt;/textarea&gt;
+                            &lt;/div&gt;
+                            &lt;div class=&#34;form-group col-lg-12&#34;&gt;
+                                &lt;input type=&#34;hidden&#34; name=&#34;save&#34; value=&#34;contact&#34;&gt;
+                                &lt;button type=&#34;submit&#34; class=&#34;btn btn-default&#34;&gt;Submit&lt;/button&gt;
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+                    &lt;/form&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

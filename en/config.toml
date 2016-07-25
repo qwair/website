@@ -1,0 +1,8 @@
+baseurl = "http://ronkeinan.com/en/"
+languageCode = "en-us"
+title = "Ron Keinan"
+copyright = 'Copyright © 2016 Ron Keinan.'
+
+[ params ]
+	author = "Ron Keinan"
+	description = "Homepage of Ron Keinan, Composer, Arranger and Producer"
