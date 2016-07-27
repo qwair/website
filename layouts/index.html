@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+<head>
+
+
+    {{ partial "head.html" . }}
+    <meta name="description" content="{{ .Site.Params.description }}">
+    <title>{{ .Site.Title }}</title>
+</head>
+
+<body lang="{{ .Site.LanguageCode }}">
+
+    {{ partial "header.html" . }}
+        <div class="container">
+
+        <div class="row">
+            <div class="box">
+                <div class="col-lg-12 text-center">
+                    <div id="carousel-example-generic" class="carousel slide">
+                        <!-- Indicators -->
+                        <ol class="carousel-indicators hidden-xs">
+                            <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+                            <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+                            <!--<li data-target="#carousel-example-generic" data-slide-to="2"></li> -->
+                        </ol>
+
+                        <!-- Wrapper for slides -->
+                        <div class="carousel-inner">
+                            <div class="item active">
+                                <img class="img-responsive img-full" src="img/ron-2.jpg" alt="">
+                            </div>
+                            <div class="item">
+                                <img class="img-responsive img-full" src="img/ron-3.jpg" alt="">
+                            </div>
+                        </div>
+                        <a class="left carousel-control" href="#carousel-example-generic" data-slide="prev">
+                            <span class="icon-prev"></span>
+                        </a>
+                        <a class="right carousel-control" href="#carousel-example-generic" data-slide="next">
+                            <span class="icon-next"></span>
+                        </a>
+                    </div>
+                    <h1 class="brand-name">Ron Keinan</h1>
+                    <hr class="tagline-divider">
+                    <h2>
+                        {{ if eq .Site.LanguageCode "en-us" }}
+                        <small><strong><a href="#composer">Composer</a>, <a href="#arranger">Arranger</a>, <a href="#producer">Producer</a></strong>
+                        </small>
+                        {{ end }}
+                        {{ if eq $.Site.LanguageCode "de-de" }}
+                        <small><strong><a href="#composer">Kompinist</a>, <a href="#arranger">Arrangeur</a>, <a href="#producer">Produzent</a></strong>
+                        </small>
+                        {{ end }}
+                    </h2>
+
+                </div>
+            </div>
+        </div>
+  <div class="row">
+            <div class="box">
+                <div class="col-lg-12">
+
+    {{ range .Data.Pages }}
+        {{ if (eq .Type "index") }}
+            {{ .Content }}
+        {{ end }}
+    {{ end }}
+                    </div>
+            </div>
+        </div>
+
+
+    {{ partial "footer.html" . }}
+    <!-- Script to Activate the Carousel -->
+    <script>
+    $('.carousel').carousel({
+        interval: 5000 //changes the speed
+    })
+    </script>
+
+</body>
+
+</html>
