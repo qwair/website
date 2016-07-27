@@ -4,7 +4,7 @@ description = "Ron Keinan. Komponist, Arrangeur, Produzent"
 title = "Ron Keinan"
 
 +++
-<p>Ich heiße <strong>Ron Keinan</strong>. Ich bin ein Komponist, Arrangeur und Produzent, und wohne in Hamburg. Geboren wurde ich in Haifa, Israel, als Kind zweier brasilianischer Immigranten. An der Jerusalem Academy of Music and Dance habe ich sowohl Kontrabass bei Michael Klinghoffer als auch klassische Komposition bei Professor Mark Kopytman studiert und meinen Bachelor of Music in Komposition gemacht. Nach einigen Berufsjahren bin ich nach Hamburg gezogen, um Jazzkomposition bei Professor Wolf Kerschek an der Hochschule für Musik und Theater zu studieren.</p>  
+<p>Ich heiße <strong>Ron Keinan</strong> und bin Komponist, Arrangeur und Produzent in Hamburg. Geboren wurde ich in Haifa, Israel, als Kind zweier brasilianischer Immigranten. An der Jerusalem Academy of Music and Dance habe ich sowohl Kontrabass bei Michael Klinghoffer als auch klassische Komposition bei Professor Mark Kopytman studiert und meinen Bachelor of Music in Komposition gemacht. Nach einigen Berufsjahren bin ich nach Hamburg gezogen, um Jazzkomposition bei Professor Wolf Kerschek an der Hochschule für Musik und Theater zu studieren.</p>  
 
 <p id="composer"><strong>Als Komponist</strong> habe ich einen Hintergrund sowohl in der klassischen Tradition als auch in der Jazztradition. Ich habe Stücke geschrieben für Besetzungen jeder Größe, für Interpreten verschiedenster Traditionen und Spielniveaus. Meine Musik ist immer klar, kommunikativ, deutlich und direkt.</p> 
 
