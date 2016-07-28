@@ -2,6 +2,10 @@
 type = "index"
 description = "Homepage of Ron Keinan, Composer, Arranger, Producer"
 title = "Ron Keinan"
+zuzu = "hello"
+[alternate]
+href="http://ronkeinan.com/de/"
+hreflang="de"
 +++
 <p>My name is <strong>Ron Keinan</strong>. I'm a composer, arranger and producer, currently based in Hamburg, Germany. I was born in Haifa, Israel, to a family of immigrants from Brazil. I studied the classical Double Bass under Mr. Michael Klinghoffer and got my B.Mus in classical Composition under Prof. Mark Kopytman in the Jerusalem Academy of Music and Dance. Later I moved to Germany and continued my studies in Jazz Composition under Prof. Wolf Kerschek in the Hochschule für Musik und Theater Hamburg.</p>  
 

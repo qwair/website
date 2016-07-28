@@ -2,9 +2,13 @@
 <html lang="{{ .Site.LanguageCode }}">
 
 <head>
-
-
     {{ partial "head.html" . }}
+    {{ if eq .Site.LanguageCode "de-de"}}
+           <link rel="alternate" href="http://ronkeinan.com/en/" hreflang="en" />
+    {{end}}
+    {{ if eq .Site.LanguageCode "en-us"}}
+       <link rel="alternate" href="http://ronkeinan.com/de/" hreflang="de" />
+    {{end}}
     <meta name="description" content="{{ .Site.Params.description }}">
     <title>{{ .Site.Title }}</title>
 </head>

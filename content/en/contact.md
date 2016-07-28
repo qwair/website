@@ -1,6 +1,9 @@
 +++
 description = "Contact Ron Keinan"
 title = "Contact Me"
+[alternate]
+href="http://ronkeinan.com/de/kontakt/"
+hreflang="de"
 +++
                     <h2 class="intro-text text-center">Contact me on social Networks
                     </h2>

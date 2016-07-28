@@ -5,6 +5,7 @@
 
 
     {{ partial "head.html" . }}
+    <link rel="alternate" href="{{ .Params.alternate.href }}" hreflang="{{ .Params.alternate.hreflang }}" />
     <meta name="description" content="{{ .Params.description }}">
     <title>{{ .Title }}</title>
 </head>

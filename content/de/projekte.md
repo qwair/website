@@ -1,6 +1,9 @@
 +++
 description = "Projektliste"
 title = "Projektliste"
+[alternate]
+href="http://ronkeinan.com/en/credits/"
+hreflang="en"
 +++
 Teilliste von Projekten
 ---------------

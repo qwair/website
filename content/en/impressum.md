@@ -1,6 +1,9 @@
 +++
 description = "Impressum"
 title = "Impressum"
+[alternate]
+href="http://ronkeinan.com/de/impressum/"
+hreflang="de"
 +++
 
 <h4>Angaben gemäß § 5 TMG:</h4>

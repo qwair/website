@@ -1,6 +1,9 @@
 +++
 description = "Partial list of credits"
 title = "Credit List"
+[alternate]
+href="http://ronkeinan.com/de/projekte/"
+hreflang="de"
 +++
 Partial List of Credits
 ---------------
