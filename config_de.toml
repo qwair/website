@@ -1,7 +1,7 @@
 baseurl = "http://ronkeinan.com/de/"
 languageCode = "de-de"
 title = "Ron Keinan"
-copyright = 'Copyright  © 2016 Ron Keinan.'
+copyright = 'Copyright  © 2017 Ron Keinan.'
 googleAnalytics = "UA-81356777-1"
 contentdir = "content/de"
 publishdir = "public/de"

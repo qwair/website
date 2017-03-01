@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+<head>
+
+
+    {{ partial "head.html" . }}
+    <link rel="alternate" href="{{ .Params.alternate.href }}" hreflang="{{ .Params.alternate.hreflang }}" />
+    <meta name="description" content="{{ .Params.description }}">
+    <title>{{ .Title }}</title>
+</head>
+
+<body lang="{{ .Site.LanguageCode }}">
+
+   {{ partial "header.html" . }}
+   {{ $baseurl := $.Site.BaseURL }}
+   <div class="container">
+        {{ range $.Site.Data.discography }}
+          <div class="box">
+               <div class="col-lg-4">
+                        <img src="{{ $baseurl }}/img/{{ index .cover $.Site.LanguageCode }}"/>
+               </div>
+               <div class="col-lg-6">
+                 <div class="row">
+                        <h4><a name="{{ .title.anchor }}">{{ index .title $.Site.LanguageCode | markdownify }}</a></h4>
+                  </div>
+                  <div class="row">
+                        <p>{{ index .text $.Site.LanguageCode | markdownify }}</p>
+                  </div>
+
+                    {{ if isset . "itunes" }}
+
+                            <a href = "{{ index .itunes $.Site.LanguageCode }}">
+                              <img src="{{ $baseurl }}/img/itunes-{{ $.Site.LanguageCode }}.svg" height=40 />
+                            </a>
+
+                    {{ end }}
+                    {{ if isset . "google" }}
+
+                            <a href = "{{ index .google $.Site.LanguageCode }}">
+                              <img src="{{ $baseurl }}/img/google-play-{{ $.Site.LanguageCode }}.png" height=60/>
+                            </a>
+
+                    {{ end }}
+                    {{ if isset . "amazon" }}
+
+                            <a href = "{{ index .amazon $.Site.LanguageCode }}">
+                              <img src="{{ $baseurl }}/img/amazon-logo.png" height=41/>
+                            </a>
+
+                    {{ end }}
+
+               </div>
+            </div>
+        {{ end }}
+        {{ partial "footer.html" . }}
+    </div>
+
+
+
+</body>
+
+</html>

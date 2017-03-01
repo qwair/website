@@ -10,6 +10,7 @@ Teilliste von Projekten
 
 - **Als Komponist**
 
+  - *River's Edge* CD von meinen eigenen Werken. Verfügbar in den folgenden Online-Laden: <a href="https://geo.itunes.apple.com/de/album/rivers-edge/id1210571768?mt=1&app=music" style="display:inline-block;overflow:hidden;background:url(//linkmaker.itunes.apple.com/assets/shared/badges/en-us/music-sm.svg) no-repeat;width:70px;height:15px;background-size:contain;"></a>
 	- *Why Not? - Ron Keinan und die NDR Bigband (2015).* CD (Komponist, Arrangeur und Dirigent).
 	- *Meditation XVII* (2015) für Mezzo Soprano, Gitarre, Bassgitarre, Drumset und symphonisches Orchester, Liedtext von John Donne.
 	- Sonaten für diverse Instrumenten und Klavier (Flöte, Klarinette, Cello, Posaune).
@@ -20,7 +21,7 @@ Teilliste von Projekten
 	- Arrangements für Curtis Stigers zum Elbjazz Festival.
 	- *Salsa Medley* und *Chega de Saudade* für den klassischen Schlagzeuger Martin Grubinger und Orchester.
 	- *Gal Tamir - Live Show* für Singer-Songwriter Gal Tamir.
-	- Verschiedene Arrangements von israelischer Populärmusik für Sänger und Kammerorchester, beauftragt von der Israeli Sinfonietta Be'er Schewa 
+	- Verschiedene Arrangements von israelischer Populärmusik für Sänger und Kammerorchester, beauftragt von der Israeli Sinfonietta Be'er Schewa
 	- Arrangements von israelischen Volks- und Populärlieder für A Capella Ensemble.
 	- Arrangements von Jazzstandards für klassische Musiker (Klavier, Kontrabass und Soloinstrument)
 
