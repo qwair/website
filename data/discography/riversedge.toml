@@ -24,4 +24,5 @@ en-us = "https://play.google.com/store/music/album/Ron_Keinan_River_s_Edge?id=Bn
 de-de = "https://play.google.com/store/music/album/Ron_Keinan_River_s_Edge?id=Bn6jjqwzn7t55vpvyokzmf2pwfy"
 
 [amazon]
-en-us = "pppp"
+en-us = "https://www.amazon.com/dp/B06XCNDNVX/"
+de-de = "https://www.amazon.de/gp/product/B06XCMFYR1/"
