@@ -10,7 +10,7 @@ Teilliste von Projekten
 
 - **Als Komponist**
 
-  - *River's Edge* CD von meinen eigenen Werken. Verfügbar in den folgenden Online-Laden: <a href="https://geo.itunes.apple.com/de/album/rivers-edge/id1210571768?mt=1&app=music" style="display:inline-block;overflow:hidden;background:url(//linkmaker.itunes.apple.com/assets/shared/badges/en-us/music-sm.svg) no-repeat;width:70px;height:15px;background-size:contain;"></a>
+  - [*River's Edge*](/de/discography/#riversedge) CD von meinen eigenen Werken. 
 	- *Why Not? - Ron Keinan und die NDR Bigband (2015).* CD (Komponist, Arrangeur und Dirigent).
 	- *Meditation XVII* (2015) für Mezzo Soprano, Gitarre, Bassgitarre, Drumset und symphonisches Orchester, Liedtext von John Donne.
 	- Sonaten für diverse Instrumenten und Klavier (Flöte, Klarinette, Cello, Posaune).

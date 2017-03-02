@@ -10,7 +10,7 @@ Partial List of Credits
 
 - **As Composer**
 
-  - [*River's Edge (2017)*]("{{ $baseurl })discography/#Riversedge") CD of my own works. 
+  - [*River's Edge (2017)*](/en/discography/#riversedge) CD of my own works. 
 	- *Why Not? - Ron Keinan & the NDR Bigband (2015).* CD of my own works.
 	- *Meditation XVII* (2015) for Mezzo Soprano, Guitar, Bass Guitar, Drum Set and Symphonic Orchestra, based on the text by John Donne.
 	- Sonatas for single instruments and piano (flute, clarinet, cello, trombone).
