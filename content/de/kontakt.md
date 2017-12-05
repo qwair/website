@@ -9,7 +9,7 @@ hreflang="en"
                     </h2>
                     <hr>
                     <div class="text-center">
-                        <a class="socmed" rel="nofollow" href="https://www.facebook.com/ron.keinan"><img src="img/FB-f-Logo__blue_58.png"></img></a>
+                        <a class="socmed" rel="nofollow" href="https://www.facebook.com/ronkeinanmusic"><img src="img/FB-f-Logo__blue_58.png"></img></a>
                         <a class="socmed" rel="nofollow" href="https://www.youtube.com/user/qwair"><img src="img/youtube-logo.png"></img></a>
                           <a class="socmed" rel="nofollow" href="https://www.soundcloud.com/ronkeinan"><img src="img/sc_gradient_96x48.png"></img></a>
                       </div>

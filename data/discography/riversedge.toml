@@ -12,17 +12,17 @@ en-us = "riversedge.jpg"
 de-de = "riversedge.jpg"
 
 [text]
-en-us = "Big band latin jazz with a twist. This album is a personal interpretation of many different styles and influences. Celia Cruz, James Brown, twelve tone music and Stravinsky get mixed up in my head - this is what comes out. Produced, composed, recorded and conducted by myself, it is the best answer I can give to date to the question \"What kind of music do you make?\""
-de-de = "Bigband-Latin-Jazz mal anders. Diese Platte ist eine persönliche Interpretation von mehreren Einflüssen. Celia Cruz, James Brown, Zwölftonmusik und Strawinski mischen sich in meinem Kopf, und hier ist was draus kommt. Da ich diese Platte produziert, komponiert, aufgenommen und dirigiert habe, ist sie die beste Antwort zur Zeit zur Frage, \"Was schreibst du für Musik?\""
-
+en-us = "Salsa in waltz time? Samba with no key? Can this work? I was influenced by brazilian and latin music as a child, and studied classical and Jazz composition as an adult. This album is a new, playful interpretation of my childhood memories."
+# de-de = "Bigband-Latin-Jazz mal anders. Diese Platte ist eine persönliche Interpretation von mehreren Einflüssen. Celia Cruz, James Brown, Zwölftonmusik und Strawinski mischen sich in meinem Kopf, und hier ist was draus kommt. Da ich diese Platte produziert, komponiert, aufgenommen und dirigiert habe, ist sie aktuell die beste Antwort auf die Frage, \"Was schreibst du für Musik?\""
+de-de = "Salsa in Dreivierteltakt, Samba ohne Tonart, kann das funktionieren? Als Kind wurde ich von brasilianische und lateinamerikanische Musik geprägt. Als Erwachsener habe ich Klassischen- und Jazzkomposition studiert. Dieses Album enthält Erinnerungen meiner Kindheit, spielerisch neu interpretiert."
 [itunes]
-en-us = "https://geo.itunes.apple.com/us/album/rivers-edge/id1210571768?mt=1&app=music"
-de-de = "https://geo.itunes.apple.com/de/album/rivers-edge/id1210571768?mt=1&app=music"
+en-us = "https://geo.itunes.apple.com/us/album/rivers-edge/id1319659517?mt=1&app=music"
+de-de = "https://geo.itunes.apple.com/de/album/rivers-edge/id1319659517?mt=1&app=music"
 
 [google]
-en-us = "https://play.google.com/store/music/album/Ron_Keinan_River_s_Edge?id=Bn6jjqwzn7t55vpvyokzmf2pwfy"
-de-de = "https://play.google.com/store/music/album/Ron_Keinan_River_s_Edge?id=Bn6jjqwzn7t55vpvyokzmf2pwfy"
+en-us = "https://play.google.com/store/music/album/Ron_Keinan_River_s_Edge?id=Buongpmoxictg7oplbwq6kvoxxa"
+de-de = "https://play.google.com/store/music/album/Ron_Keinan_River_s_Edge?id=Buongpmoxictg7oplbwq6kvoxxa"
 
 [amazon]
-en-us = "https://www.amazon.com/dp/B06XCNDNVX/"
+en-us = "https://www.amazon.com/dp/B077VRT5G5/"
 de-de = "https://www.amazon.de/gp/product/B06XCMFYR1/"

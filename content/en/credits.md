@@ -10,7 +10,7 @@ Partial List of Credits
 
 - **As Composer**
 
-  - [*River's Edge (2017)*](/en/discography/#riversedge) CD of my own works. 
+  - [*River's Edge (2017)*](/en/discography/#riversedge) CD of my own works.
 	- *Why Not? - Ron Keinan & the NDR Bigband (2015).* CD of my own works.
 	- *Meditation XVII* (2015) for Mezzo Soprano, Guitar, Bass Guitar, Drum Set and Symphonic Orchestra, based on the text by John Donne.
 	- Sonatas for single instruments and piano (flute, clarinet, cello, trombone).
@@ -27,5 +27,5 @@ Partial List of Credits
 
 - **As Engineer/Producer**
 
-	- *Olympics - Games of Passion (2016).* CD By Wolf Kerschek (Composer & arranger), NDR Bigband, Session Strings and various Vocalists.
+  - *Olympics - Games of Passion (2016).* CD By Wolf Kerschek (Composer & arranger), NDR Bigband, Session Strings and various Vocalists.
 	- [*Amor, Semino Rossi (2015).*](www.seminorossi.com) CD of covers in Spanish and German by Argentinian-Austrian singer Semino Rossi. Produced by Humberto Gatica.

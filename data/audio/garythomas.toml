@@ -2,5 +2,9 @@
 en-us = "Arrangements for Gary Thomas"
 de-de = "Arrangements für Gary Thomas"
 
+[subtitle]
+en-us = "Arrangements of Original works by saxophonist Gary Thomas, performed in a Concert in Hamburg, 2015."
+de-de = "Arrangements von Stücken des Jazzsaxofonisten Gary Thomas. Die wurden in Hamburg 2015 aufgeführt."
+  
 [soundcloud]
 nos = [ "275414566", "275414539" ]
