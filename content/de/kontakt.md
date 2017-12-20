@@ -17,7 +17,7 @@ hreflang="en"
                       <h2 class="intro-text text-center">Per Mail
                     </h2>
                     <hr>
-                    <p>Ich bin erreichbar an <a href="mailto:ron@ronkeinan.com">ron@ronkeinan.com</a>.
+                    <p>Ich bin erreichbar unter <a href="mailto:ron@ronkeinan.com">ron@ronkeinan.com</a>.
                     <form role="form" action="https://formspree.io/ron@ronkeinan.com"
       method="POST">
                         <div class="row">

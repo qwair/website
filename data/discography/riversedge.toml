@@ -14,7 +14,8 @@ de-de = "riversedge.jpg"
 [text]
 en-us = "Salsa in waltz time? Samba with no key? Can this work? I was influenced by brazilian and latin music as a child, and studied classical and Jazz composition as an adult. This album is a new, playful interpretation of my childhood memories."
 # de-de = "Bigband-Latin-Jazz mal anders. Diese Platte ist eine persönliche Interpretation von mehreren Einflüssen. Celia Cruz, James Brown, Zwölftonmusik und Strawinski mischen sich in meinem Kopf, und hier ist was draus kommt. Da ich diese Platte produziert, komponiert, aufgenommen und dirigiert habe, ist sie aktuell die beste Antwort auf die Frage, \"Was schreibst du für Musik?\""
-de-de = "Salsa in Dreivierteltakt, Samba ohne Tonart, kann das funktionieren? Als Kind wurde ich von brasilianische und lateinamerikanische Musik geprägt. Als Erwachsener habe ich Klassischen- und Jazzkomposition studiert. Dieses Album enthält Erinnerungen meiner Kindheit, spielerisch neu interpretiert."
+de-de = "Salsa in Dreivierteltakt, Samba ohne Tonart, kann das funktionieren? Als Kind wurde ich von brasilianische und lateinamerikanische Musik geprägt. Als Erwachsener habe ich Klassische- und Jazzkomposition studiert. Dieses Album enthält Erinnerungen meiner Kindheit, spielerisch neu interpretiert."
+
 [itunes]
 en-us = "https://geo.itunes.apple.com/us/album/rivers-edge/id1319659517?mt=1&app=music"
 de-de = "https://geo.itunes.apple.com/de/album/rivers-edge/id1319659517?mt=1&app=music"
@@ -26,3 +27,10 @@ de-de = "https://play.google.com/store/music/album/Ron_Keinan_River_s_Edge?id=Bu
 [amazon]
 en-us = "https://www.amazon.com/dp/B077VRT5G5/"
 de-de = "https://www.amazon.de/gp/product/B06XCMFYR1/"
+
+[paypal]
+code_de = "UE2D8EQ8SUNE4"
+tarif_de = [["Deutschland", "Deutschland €12,90 EUR"], ["EU-Länder", "EU-Länder €17,90 EUR"], ["alle andere Länder", "Alle andere Länder €25,90 EUR"]]
+
+code_en = "TP2Z4VYZET7BA"
+tarif_en = [["Germany", "Germany €12,90 EUR"], ["EU", "EU €17,90 EUR"], ["World", "World €25,90 EUR"]]
